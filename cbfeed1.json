@@ -1,1 +1,1 @@
-None
+{'feedinfo': {'provider_url': 'https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt', 'display_name': 'Emerging Threats IPs', 'name': 'emergingthreats', 'tech_data': 'Known bad IPs via Emerging Threats', 'summary': 'Known bad IPs via Emerging Threats'}, 'reports': [{'timestamp': 1380773388, 'iocs': {'ipv4': ['100.2.142.8']}, 'link': 'https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt', 'id': 'emergingthreats', 'title': 'Known bad IP via Emerging Threats'}]}
